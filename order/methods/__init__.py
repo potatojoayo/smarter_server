@@ -1,0 +1,1 @@
+from .reward_smarter_money import reward_smarter_money

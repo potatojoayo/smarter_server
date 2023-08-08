@@ -1,0 +1,2 @@
+from product.types.product_master.product_master_input_type import ProductMasterInputType
+

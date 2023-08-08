@@ -1,0 +1,1 @@
+from business.types.gym.gym_type import GymType

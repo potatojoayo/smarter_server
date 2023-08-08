@@ -1,0 +1,28 @@
+import graphene
+
+
+class DraftSizeInputType(graphene.InputObjectType):
+    id = graphene.Int()
+    name = graphene.String()
+    back_width = graphene.Int(default=0)
+    back_height = graphene.Int(default=0)
+    left_chest_width = graphene.Int(default=0)
+    left_chest_height = graphene.Int(default=0)
+    right_chest_width = graphene.Int(default=0)
+    right_chest_height = graphene.Int(default=0)
+    left_shoulder_width = graphene.Int(default=0)
+    left_shoulder_height = graphene.Int(default=0)
+    right_shoulder_width = graphene.Int(default=0)
+    right_shoulder_height = graphene.Int(default=0)
+    heap_width = graphene.Int(default=0)
+    heap_height = graphene.Int(default=0)
+    left_pant_middle_width = graphene.Int(default=0)
+    left_pant_middle_height = graphene.Int(default=0)
+    right_pant_middle_width = graphene.Int(default=0)
+    right_pant_middle_height = graphene.Int(default=0)
+    left_pant_low_width = graphene.Int(default=0)
+    left_pant_low_height = graphene.Int(default=0)
+    right_pant_low_width = graphene.Int(default=0)
+    right_pant_low_height = graphene.Int(default=0)
+    flag_width = graphene.Int(default=0)
+    flag_height = graphene.Int(default=0)

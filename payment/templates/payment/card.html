@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>카드</title>
+    <script src="https://js.tosspayments.com/v1"></script>
+</head>
+<body>
+<script>
+    var tossPayments = TossPayments('{{ client_key }}')
+    tossPayments.requestPayment('카드', {
+        amount: {{ amount }},
+        orderId: '{{ orderId }}',
+        orderName: '{{ orderName }}',
+        customerName: '{{ customerName }}',
+        successUrl: window.location.origin + '/payment/success',
+        failUrl: window.location.origin + '/payment/fail',
+    })
+</script>
+</body>
+</html>

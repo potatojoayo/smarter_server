@@ -1,0 +1,19 @@
+<html>
+<head>
+    <script src="https://js.tosspayments.com/v1"></script>
+</head>
+<body>
+<script>
+    var tossPayments = TossPayments('{{ client_key }}')
+    tossPayments.requestPayment('계좌이체', {
+        amount: {{amount}},
+        orderId: '{{orderId}}',
+        orderName: '{{orderName}}',
+        customerName: '{{customerName}}',
+        bank: '{{bank}}',
+        successUrl: window.location.origin + '/payment/success',
+        failUrl: window.location.origin + '/payment/fail',
+    })
+</script>
+</body>
+</html>

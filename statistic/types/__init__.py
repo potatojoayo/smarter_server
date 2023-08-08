@@ -1,0 +1,1 @@
+from .product_statistic_type import ProductStatisticType

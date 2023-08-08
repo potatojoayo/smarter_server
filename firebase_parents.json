@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "k-smarter-parents",
+  "private_key_id": "1c6de0206aedea1a02870a77bab41ea3107ec715",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrJlnp/G+FbnML\nZyO5+TDiWGDpdtdhfMKU+viqVysHO9weM7UxCSwKGHaXmXwaav2S+TL2wwJ2VjJx\niVZAyVGjAJRzwk1/BCf737b2AIZLdufVI5tTvYakNtzyFrRkjBuLwqD/YysLvEzJ\nxFyJK70X7CMkWeGLZXwpfCcvHZii8ZBDyUb/3+dm+S6U57HZf32eGwdpdxvRfvo3\nnIQmjI1UN2RBDwdHC/VR2yRQqRhYzsoHCJRtjR/3NI38x7Yp/J1aAd+aVbk6o0LL\nSGA8X9eW+x1ND7IeL9WwF1uvW7tp5+qgwqkuDvogG3MBMeXT+MH3k8Iw8YTXAUCM\nYyLNSu9dAgMBAAECggEABkhZXx1A48NG7ll6JoLHAFwRrKhL5jx78ReYZrpd7j1M\nioBH67WkO/ejbNO5ykd4qPtEW2oTrk/iOKg7thOdz0+/Y1Nz4FCA/j47W2LwCxeh\nkYGl20hXB7Kq4CkktJcvEK2TluRnSV4/bF2sru1f2t+0d4pkHOecC/LOhmx99Kc9\njiTW7WzdyvtgtoZz6k1P4EKCzakRPac0N1geR+nILBcwwAEA9TNHFuV2a9uutmVB\nlTRc9AhvMfIN306ZpoodpsheR7eDlKtbpgRCHhvuxO0PRhySzvx5FRKhkZeWL10F\nyHz1E6mSfutlrXTXL9k8SX+Ij67l4jPIeH/0Uy7SaQKBgQDYBzoSogPDh46OH0np\nV+iyLyRLpgYlHvPKLc6eFunx/kWsRexbxOHhDtgDDwNdhNjTaHIM2dDZZfkAgLcf\noYe6TCnf5FpRT77bq3cf2eVihdoEEfEX1jB4Fl+Q0wHkAr1LOMZ6frIRmVLT7oqh\nqaHF9csehNsflxGsGM8HBwRHmQKBgQDK0VWMZOewbqDnEu2tnDHDrzH/gLwgoHWn\nNtxUrDady/gsbY3iQx3xqNDsSFBM3qiT5nLCKvVeLUkWGv5emUtkg8W+GVbcmudZ\nOWtZFhiSSr4q51Yod7F3ByqRqtOMA/7KxJB1zvparjh582ScVX98eWjcytF10A2E\nMY7cGV4wZQKBgBx070BvGSHTpIKyOnFDhEKclSJl719KcYDLgfEvQYgAH7tuxpDc\nIYkdBHV6r83M5ycKFiP9OVa56RAY5IaFJ7TxvX5hvUgCwjh7oMiQUngk+7AXkPO7\n4kyfXd1c/l3Dwp27D+Io+Fn7IX8LaDWde9Lw6t3NUHQb2VcbOYJKeVTZAoGAd+Et\n0LMf40AwqQSeKfzlyUV3pw8fo6VUhYa+yumTysdyJEiJEdEcFOf0vYSsuhLtz6Xp\n9OzRZV4dEgzYh2/SiVH+ArQVjIWe8zUmR1zxHx9AsjlUysycv78joUA4lE0UQCPZ\nQ1kYz5qk1ShRMrqyhQ96NO9IyXs1Ugq850mzS6UCgYA8gA3QvhLc6CEknu8k6cGC\nc6OtZK+cN9s/8UUYGlNvodNZh6+SyqWgjiXgHc66ZlAaIzgkDh5gN7WolEzDQkfT\naweDaOad1Br3gcFwTboo/NoMa3AygJl54xftZMMR4vbAnhgrZRuvBN2KB5HJ7b37\nXyDT1OGhXllBfkXe1vK++g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gou92@k-smarter-parents.iam.gserviceaccount.com",
+  "client_id": "107792049014967324263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gou92%40k-smarter-parents.iam.gserviceaccount.com"
+}

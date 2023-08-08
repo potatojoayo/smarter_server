@@ -1,0 +1,1 @@
+from .my_class_payment_master_field import MyClassPaymentMasterField

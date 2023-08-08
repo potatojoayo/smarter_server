@@ -1,0 +1,11 @@
+data
+/.idea
+.swp
+/media
+.env
+/files/images
+/files/상품
+logs
+celerybeat-schedule
+files
+main.yml
